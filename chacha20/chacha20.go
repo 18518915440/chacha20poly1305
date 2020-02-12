@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math"
 
-	"./internal/api"
+    "github.com/18518915440/chacha20poly1305/chacha20/internal/api"
 	"github.com/18518915440/chacha20poly1305/chacha20/internal/hardware"
 	"github.com/18518915440/chacha20poly1305/chacha20/internal/ref"
 )
